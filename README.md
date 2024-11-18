@@ -24,3 +24,7 @@ To get weather data, you need to sign up for a free account on OpenWeatherMap an
 Sign Up at OpenWeatherMap.
 Create an API Key from the dashboard.
 Use this API key in your JavaScript code to fetch weather data.
+![Screenshot 2024-11-18 103919](https://github.com/user-attachments/assets/4a589955-e4d6-42ef-955d-f4acb6a36ea4)
+![Screenshot 2024-11-18 103845](https://github.com/user-attachments/assets/2b422e42-d588-40ab-8c34-89c7c625c59f)
+
+
